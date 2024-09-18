@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HarshNishadApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HarshNishadApplication.class, args);
+		//System.out.println(MyController.myMethod());
+		SpringApplication.run(HarshNishadApplication.class, args); //bts sping run horha
 	}
 
 }
